@@ -7,7 +7,7 @@ WIDTH, HEIGHT = 1100, 700
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('MONOPOLY')
 
-# BEZ FPS IDU TLACIDLA
+
 FPS = 2000
 WHITE = (255, 255, 255)
 BLACK = (0, 0, 0)
